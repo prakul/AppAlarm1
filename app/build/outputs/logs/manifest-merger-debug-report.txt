@@ -1,0 +1,252 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:2:1-66:12
+	package
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:3:7-50
+		INJECTED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:4:7-34
+		INJECTED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:4:35-59
+		INJECTED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:5:5-43:15
+	android:label
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:5:18-50
+	android:icon
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:5:51-86
+activity#com.episode6.android.appalarm.pro.AlarmList
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:6:9-18:12
+	android:label
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:7:19-51
+	android:configChanges
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:7:52-111
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:6:19-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:8:13-11:29
+action#android.intent.action.MAIN
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:9:17-69
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:9:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:10:17-77
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:10:27-74
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:12:9-17:17
+action#android.intent.action.VIEW
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:13:1-60
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:13:9-50
+category#android.intent.category.BROWSABLE
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:14:1-71
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:14:11-59
+category#android.intent.category.DEFAULT
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:15:1-69
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:15:11-57
+data
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:16:1-98
+	android:host
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:16:29-56
+	android:scheme
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:16:7-28
+	android:pathPrefix
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:16:57-90
+activity#com.episode6.android.appalarm.pro.AlarmEdit
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:19:5-153
+	android:label
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:19:101-141
+	android:configChanges
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:19:15-74
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:19:75-100
+activity#com.episode6.android.appalarm.pro.AppChooser
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:20:1-109
+	android:configChanges
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:20:11-70
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:20:71-97
+service#com.episode6.android.appalarm.pro.AalService
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:21:1-22:11
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:21:10-36
+receiver#com.episode6.android.appalarm.pro.AlarmReciever
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:23:1-52
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:23:11-40
+receiver#com.episode6.android.appalarm.pro.BootReciever
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:24:1-30:12
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:24:11-39
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:24:40-25:17
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:24:55-124
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:24:63-114
+intent-filter#android.intent.action.TIMEZONE_CHANGED
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:26:1-27:17
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:26:16-87
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:26:24-77
+intent-filter#android.intent.action.TIME_SET
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:28:1-29:17
+action#android.intent.action.TIME_SET
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:28:16-79
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:28:24-69
+activity#com.pandora.android.activity.NowPlaying
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:31:1-77
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:31:11-65
+activity#com.episode6.android.appalarm.pro.RepeatChooser
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:32:1-96
+	android:theme
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:32:41-84
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:32:11-40
+activity#com.episode6.android.appalarm.pro.VolumeChooser
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:33:1-156
+	android:configChanges
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:33:55-114
+	android:theme
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:33:11-54
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:33:115-144
+activity#com.episode6.android.appalarm.pro.CustomIntentMaker
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:34:1-100
+	android:theme
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:34:45-88
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:34:11-44
+activity#com.episode6.android.appalarm.pro.TimeChooser
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:35:1-94
+	android:theme
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:35:11-54
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:35:55-82
+activity#com.episode6.android.appalarm.pro.StringInputDialog
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:36:1-100
+	android:theme
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:36:45-88
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:36:11-44
+activity#com.episode6.android.appalarm.pro.SnoozeActivity
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:37:1-226
+	android:label
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:37:42-74
+	android:launchMode
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:37:135-170
+	android:configChanges
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:37:75-134
+	android:theme
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:37:171-214
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:37:11-41
+receiver#com.episode6.android.appalarm.pro.SnoozeWakeupReceiver
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:38:1-59
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:38:11-47
+activity#com.episode6.android.appalarm.pro.ProviderList
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:40:1-111
+	android:configChanges
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:40:11-70
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:40:71-99
+activity#com.episode6.android.appalarm.pro.CustomActionActivity
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:41:1-59
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:41:11-47
+activity#com.episode6.android.appalarm.pro.KillAndLaunchActivity
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:42:1-120
+	android:configChanges
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:42:49-108
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:42:11-48
+uses-sdk
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:44:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:44:15-40
+		INJECTED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:47:1-93
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:47:18-74
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:48:1-80
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:48:18-61
+uses-permission#android.permission.INTERNET
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:49:1-79
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:49:18-60
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:50:1-87
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:50:18-68
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:51:1-88
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:51:18-69
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:52:1-88
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:52:18-69
+supports-screens
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:53:1-175
+	android:largeScreens
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:53:128-155
+	android:smallScreens
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:53:45-72
+	android:normalScreens
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:53:99-127
+	android:resizeable
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:53:73-98
+	android:anyDensity
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:53:19-44
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:55:1-81
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:55:18-62
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:56:1-92
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:56:18-73
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:58:1-87
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:58:18-68
+uses-permission#android.permission.RESTART_PACKAGES
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:59:1-87
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:59:18-68
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:60:1-97
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:60:18-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:61:1-93
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:61:18-74
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:64:1-93
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:64:18-74
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:65:1-96
+	android:name
+		ADDED from /Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/AndroidManifest.xml:65:18-77

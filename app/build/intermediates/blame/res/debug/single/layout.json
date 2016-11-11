@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/build/intermediates/res/merged/debug/layout/froyo_kill_screen.xml",
+        "source": "/Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/res/layout/froyo_kill_screen.xml"
+    },
+    {
+        "merged": "/Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/build/intermediates/res/merged/debug/layout/repeat_chooser.xml",
+        "source": "/Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/res/layout/repeat_chooser.xml"
+    },
+    {
+        "merged": "/Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/build/intermediates/res/merged/debug/layout/app_list_item.xml",
+        "source": "/Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/res/layout/app_list_item.xml"
+    },
+    {
+        "merged": "/Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/build/intermediates/res/merged/debug/layout/volume_chooser.xml",
+        "source": "/Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/res/layout/volume_chooser.xml"
+    },
+    {
+        "merged": "/Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/build/intermediates/res/merged/debug/layout/custom_intent.xml",
+        "source": "/Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/res/layout/custom_intent.xml"
+    },
+    {
+        "merged": "/Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/build/intermediates/res/merged/debug/layout/pandora_station_item.xml",
+        "source": "/Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/res/layout/pandora_station_item.xml"
+    },
+    {
+        "merged": "/Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/build/intermediates/res/merged/debug/layout/pandora_station_list.xml",
+        "source": "/Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/res/layout/pandora_station_list.xml"
+    },
+    {
+        "merged": "/Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/build/intermediates/res/merged/debug/layout/snooze_layout.xml",
+        "source": "/Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/res/layout/snooze_layout.xml"
+    },
+    {
+        "merged": "/Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/build/intermediates/res/merged/debug/layout/app_list.xml",
+        "source": "/Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/res/layout/app_list.xml"
+    },
+    {
+        "merged": "/Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/build/intermediates/res/merged/debug/layout/time_chooser.xml",
+        "source": "/Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/res/layout/time_chooser.xml"
+    },
+    {
+        "merged": "/Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/build/intermediates/res/merged/debug/layout/alarm_row.xml",
+        "source": "/Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/res/layout/alarm_row.xml"
+    },
+    {
+        "merged": "/Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/build/intermediates/res/merged/debug/layout/alarm_edit.xml",
+        "source": "/Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/res/layout/alarm_edit.xml"
+    },
+    {
+        "merged": "/Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/build/intermediates/res/merged/debug/layout/string_input.xml",
+        "source": "/Users/prakulagarwal/Documents/myHacks/AppAlarm1/app/src/main/res/layout/string_input.xml"
+    }
+]
